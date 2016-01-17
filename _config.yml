@@ -1,7 +1,7 @@
 name: PresenterLab
 favicon: null
-layout_spectrum: 0.2425
-typography_spectrum: 0.4922
+layout_spectrum: 0.3306856998242438
+typography_spectrum: 0.4892878879327327
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fafafa'
-    - '#b5c6d6'
-    - '#d59f85'
-    - '#a2745d'
-    - '#392f30'
-  brandStrength: 0.3125
-  lightness: 0.6875
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5790287996642292
+  lightness: 0.6651568803936243
+  saturation: 0.3719996407162398
+  rhythmicContrast: 0.6321683053392917
 purpose: []
